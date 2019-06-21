@@ -87,7 +87,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: Phoenix Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
@@ -96,8 +96,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#e21e26'
+  theme_color: '#117ec2'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
