@@ -50,16 +50,16 @@ second_sidebar_CTA:
     CTA_url2: http://www.moniquesells.com/properties/#/
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
+  show_section: true
+  header_text: Local Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
-  name:
+  name: Tom Ross
   license_number:
-  company:
+  company: Bay Equity Home Loans
   company_license_number:
-  phone:
-  email:
+  phone: 602-791-5861
+  email: tross@bayeq.com
   url:
 
 socials:

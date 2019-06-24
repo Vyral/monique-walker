@@ -29,10 +29,11 @@
 		{% if site.data.settings.lender.url != null %}
 		<a href="{{site.data.settings.lender.url}}">{{site.data.settings.lender.url | remove: 'http://' | remove: 'https://'}}</a>
 		{% endif %}
+		<br>
 	</p>
 	</div>
-	<div class="lender-logo">
+	<!-- <div class="lender-logo">
 		<img src="{{site.data.settings.lender.logo_path}}"/>
-	</div>
+	</div> -->
 </div>
 {% endif %}
