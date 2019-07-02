@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Monique Walker Team - your professional Phoenix Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Monique Walker</managingEditor>
-    <lastBuildDate>2019-06-24 13:21:23 -0500</lastBuildDate>
+    <lastBuildDate>2019-07-02 09:43:20 -0500</lastBuildDate>
     <media:copyright>Monique Walker</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,39 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Monique Walker Team - your professional Phoenix Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Some News About Our Market’s Interest Rates</title>
+        <link>http://localhost:4000/some-news-about-our-markets-interest-rates.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Monique Walker</author>
+        <pubDate>2019-06-28 09:41:53 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Phoenix+Real+Estate-+Some+News+About+Our+Markets+Interest+Rates.mp4</guid>
+        <description>
+
+Today I’m alongside Tom Ross with Bay Equity Home Loans and, together, we’re here to discuss our current interest rate environment. 
+
+By the end of this May, we saw a notable development with regard to interest rates: The combination of tariffs and various other economic conditions are driving rates down, and this downward trend doesn’t look like it’s going to slow or move in the other direction anytime soon.
+
+“The combination of tariffs and various other economic conditions are driving rates down.”
+
+Although market indicators tell us that rates will continue their current trajectory for the next year or so, it’s worth pointing out that, last year, we were confident that rates would continue to rise well into the high-5’s. It wasn’t until the Fed announced a change of course in their policy decisions early this year that we knew we could see rates flatten out or begin to fall. 
+
+All things considered, conditions are very favorable at this moment, and it’s a great time to get into the market.  
+
+Whether you’re considering buying or refinancing, go ahead and give Tom a call at 602-791-5861. We’d love to help you as a team! And if you have any other questions regarding your real estate needs, please reach out to me as well. We hope to hear from you soon!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Phoenix+Real+Estate-+Some+News+About+Our+Markets+Interest+Rates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Phoenix+Real+Estate-+Some+News+About+Our+Markets+Interest+Rates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Interest rates are moving in a downward direction and are showing no signs of changing for at least a year—but why? I’m joined by Tom Ross from Bay Equity to answer that.</itunes:subtitle>
+        <itunes:author>Monique Walker</itunes:author>
+        <itunes:summary>Interest rates are moving in a downward direction and are showing no signs of changing for at least a year—but why? I’m joined by Tom Ross from Bay Equity to answer that.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>If You Plan on Buying a Home, the Time to Act Is Now</title>
         <link>http://localhost:4000/if-you-plan-on-buying-home-time-to-act.html</link>
