@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some News About Our Market’s Interest Rates
-date: 2019-06-28 14:41:53
+date: 2019-06-28 14:41:00
 tags:
   - Market Update
 excerpt: >-
@@ -28,7 +28,7 @@ By the end of this May, we saw a notable development with regard to interest rat
 
 {% include pullquote.html %}
 
-Although market indicators tell us that rates will continue their current trajectory for the next year or so, it’s worth pointing out that, last year, we were confident that rates would continue to rise well into the high-5’s. It wasn't until the Fed announced a change of course in their policy decisions early this year that we knew we could see rates flatten out or begin to fall.&nbsp;
+Although market indicators tell us that rates will continue their current trajectory for the next year or so, it’s worth pointing out that, last year, we were confident that rates would continue to rise well into the high-5’s. It wasn't until the Fed signaled a change of course in their policy decisions early this year that we knew we could see rates flatten out or begin to fall.&nbsp;
 
 All things considered, **conditions are very favorable at this moment, and it’s a great time to get into the market.** &nbsp;
 
