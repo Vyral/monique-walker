@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Homebuyers Work With Our Team
+title: Why Work With the Monique Walker Team?
 date: 2019-07-16 15:50:00
 tags:
   - Home Buyer Tips
@@ -8,7 +8,7 @@ excerpt: >-
   Our team is designed for you. A few of our buyer specialists joined me to
   explain why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Why+Homebuyers+Work+With+Our+Team.mp4
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Why+Work+With+the+Monique+Walker+Team%3F.mp4
 pullquote: I’ve designed our amazing team for you to always be waited on.
 enclosure_type: video/mp4
 enclosure_time:
