@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Homebuyers Work With Our Team
-date: 2019-07-16 15:50:39
+date: 2019-07-16 15:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 8mFxpdBoTBk
 
 {% include youtube.html %}
 
-I’ve been selling real estate for 16 years and we’re so grateful for all of our clients who keep coming back to us time and time again.&nbsp;
+I’ve been selling real estate for 16 years and my team and I are so grateful for all of our clients who keep coming back to us time and time again.&nbsp;
 
 **I’ve designed our amazing team so that you are always waited on, but you’re never waiting on us.**&nbsp;
 
@@ -31,6 +31,6 @@ Ann Csincsak is also a buyer specialist on our team. She loves taking buyers out
 
 There are a few team mottos we have that are kind of like life mottos. They are:
 
-**1\. We always do what’s best for the client<br>2\. Our performance outsells other agents’ promises<br>3\. We’re kind, proactive, aggressive, and very professional agents.**
+**1\. We always do what’s best for the client<br>2\. Our performance outsells other agents’ promises<br>3\. We’re kind, proactive, aggressive, and very professional agents**
 
 If you or someone you know is thinking about purchasing or listing a home any time in the near future, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
