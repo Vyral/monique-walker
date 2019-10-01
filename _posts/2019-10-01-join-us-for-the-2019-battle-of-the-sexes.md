@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for the 2019 Battle of the Sexes
-date: 2019-09-26 18:20:00
+date: 2019-10-01 18:20:00
 tags:
   - Real Estate
 excerpt: >-
@@ -25,8 +25,8 @@ The Battle of the Sexes 2019 is almost here\! There will be food, drinks, a raff
 
 {% include pullquote.html %}
 
-In the past, we’ve raised enough through this event in 12 years to help over 40,000 people. It’s my 10th year playing, and I’m so excited to play this year and raise even more money. **To learn more, visit** **[www.guerrantfoundation.org](http://www.guerrantfoundation.org){: target="_blank"}.**
+In the past, we’ve raised enough through this event in 12 years to help over 40,000 people. It’s my 10th year playing, and I’m so excited to play this year and raise even more money to help the poorest of the world's poor through small loans to start businesses. &nbsp;A tiny loan can help a woman in the developing world start a business and change the lives of herself and her children by providing a regular source of food, clothing, shelter, and education. &nbsp;It's the first step to ending the downward spiral of crushing poverty.
 
-Anne Guerrant and I recently went on "Good Morning Arizona" to talk about the event. We also talked about Anne’s time playing with Billie Jean King, how and why the Guerrant Foundation was started, and what you can expect from this year’s event. **You can see the interview in its entirety starting at the 0:45 second mark in the video above.**
+**You can help us end poverty with a thoughtful donation by clicking [here.](http://www.fundrazr.com/BattleMonique){: target="_blank"}**
 
 If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
