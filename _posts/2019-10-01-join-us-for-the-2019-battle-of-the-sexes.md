@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for the 2019 Battle of the Sexes
-date: 2019-10-01 18:20:00
+date: 2019-10-01 10:00:00
 tags:
   - Real Estate
 excerpt: >-
