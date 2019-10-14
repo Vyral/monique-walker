@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in Our Market?
-date: 2019-10-11 21:50:30
+date: 2019-10-11 21:50:00
 tags:
   - Market Update
 excerpt: Here’s your Fall 2019 real estate market update.
@@ -25,4 +25,4 @@ Though our level of inventory is low, demand for homes is very high. We have 1.7
 
 To give you an example that will help clarify what this means, we just listed a property in North Scottsdale for $875,000, and we were able to sell it in about a week and a half for $860,000. We listed another property in North Phoenix for $435,000, and we were able to get the sellers that price when it sold. **Another property we listed at $270,000 had 20 offers on it,** and we were able to sell it for $280,000.
 
-In the end, for all price points under $1 million, the market is really strong. If you’re thinking about selling your house, or if you’re just curious about the value of your home, please reach out to me. I’d be so happy to help you.
+In the end, for all price points under $1 million, the market is really strong. If you’re thinking about selling your house or if you’re just curious about the value of your home, please reach out to me. I’d be so happy to help you.
