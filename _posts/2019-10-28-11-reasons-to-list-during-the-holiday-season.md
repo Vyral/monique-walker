@@ -14,4 +14,4 @@ youtube_alternate_image: /uploads/list-during-the-holidays-youtube-1.jpg
 youtube_code:
 ---
 
-###### ![](/uploads/11-reasons-holiday-season-page-001-1.jpg){: width="1275" height="1650"}
+###### ![](/uploads/11-reasons-holiday-season-page-001-1.jpg){: .post-image}
