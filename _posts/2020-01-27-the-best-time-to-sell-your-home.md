@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The Best Time to Sell Your Home
-date: 2020-01-27 20:38:47
+date: 2020-01-27 20:38:00
 tags:
   - Home Seller Tips
 excerpt: Here’s my tip for timing your sale in our Maricopa County market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/The+Best+Time+to+Sell+Your+Home.mp4
-pullquote:
+pullquote: >-
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/The+Best+Time+to+Sell+Your+Home.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
