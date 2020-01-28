@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Here’s my tip for timing your sale in our Maricopa County market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/The+Best+Time+to+Sell+Your+Home.mp4
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/What's+the+Best+Season+to+Sell%3F.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
