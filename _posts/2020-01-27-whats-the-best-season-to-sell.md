@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Time to Sell Your Home
+title: What's the Best Season to Sell?
 date: 2020-01-27 20:38:00
 tags:
   - Home Seller Tips
