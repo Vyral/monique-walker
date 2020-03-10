@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Improvement Tips for 2020 Sellers
-date: 2020-03-09 20:19:58
+date: 2020-03-09 20:19:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -23,13 +23,13 @@ Every home seller wants top dollar for their property, so many turn to making up
 
 Typically, money is better spent inside the home versus outside, so you may want to wait on fixing up the driveway or investing in a newer fence, for example.&nbsp;
 
-**Truly, the rooms that should be your focus are the kitchen and the bathrooms.** Buyers are searching for turn-key properties that will involve as little hassle as possible. Ideally, they want to just hand over their down payment and mortgage and move right in.
+**Truly, the rooms that should be your focus are the kitchen and bathrooms.** Buyers are searching for turnkey properties that will involve as little hassle as possible. Ideally, they want to just hand over their down payment and mortgage and move right into the home.
 
 Whenever we put up a new construction home for sale, or a home that’s already been renovated, it’s always an easier sale than trying to market a home that’s been neglected.&nbsp;
 
 {% include pullquote.html %}
 
-If you’re needing home improvements, deal with the kitchen first This is where families spend the most time; it’s hard to imagine a holiday spent with relatives that doesn’t involve everyone mingling in a kitchen as they load up on food. Generally, buyers love an open concept where the living room flows into a modernized kitchen with an island as a focal point.&nbsp;
+If you’re needing home improvements, deal with the kitchen first. This is where families spend the most time; it’s hard to imagine celebrating a holiday without all your relatives mingling in a kitchen as they load up on food. Generally, buyers love an open concept where the living room flows into a modernized kitchen with an island as a focal point.&nbsp;
 
 Kitchen renovations can be costly and extensive, so it’s no wonder buyers prefer properties where all the heavy lifting of remodeling has already been done and the kitchen is up-to-date and stylish.&nbsp;
 
