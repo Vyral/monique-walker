@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is a Good Time to List Your Home
-date:
+date: 2020-04-08 20:16:43
 tags:
   - Home Seller Tips
 excerpt: >-
