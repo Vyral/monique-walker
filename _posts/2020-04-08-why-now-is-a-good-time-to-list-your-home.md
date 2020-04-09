@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is a Good Time to List Your Home
-date: 2020-04-08 20:16:43
+date: 2020-04-08 20:16:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -27,10 +27,10 @@ Our team is staying safe and healthy, and I hope you and your family are as well
 
 {% include pullquote.html %}
 
-**3\. Interest rates are very low.** Though buying and selling involve creativity right now, some buyers feel it’s worth it to capitalize on these rates.&nbsp;
+**3\. Interest rates are very low.** Though buying and selling require creativity right now, some buyers feel it’s worth it to capitalize on these rates.&nbsp;
 
 **4\. More online searches are happening now than ever before.** Buyers have more time than usual to search for homes online, and the impressions are up by 10x. Your home could appear in countless searches\!
 
-Though the heal crisis news is grim, the real estate industry is fortunate in the sense that the market is holding up quite well.&nbsp;
+Though the health crisis news is grim, the real estate industry is fortunate in the sense that the market is holding up quite well.&nbsp;
 
 If you have any questions about what was discussed today, or if you’re interested in buying or selling a home soon but aren’t sure how to proceed in these times, reach out to us. Call, email, set up a Zoom meeting—whatever method works best, we’re always here to help.
