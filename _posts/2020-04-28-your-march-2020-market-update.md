@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your March 2020 Market Update
-date: 2020-04-28 19:59:20
+date: 2020-04-28 19:59:00
 tags:
   - Market Update
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: OkrOoGD7XTs
 
 {% include youtube.html %}
 
-What do the latest numbers say about our Phoenix market? Here’s how the numbers from last March compare with those from March 2019.&nbsp;
+What do the latest numbers say about our Phoenix market? Here’s how the numbers from March compare with those from March 2019.&nbsp;
 
 The number of sales was identical, but inventory dropped 35%. What does this mean if you’re a seller? With just 1.6 months’ worth of homes, there aren’t a lot of properties out there. **Even amid the pandemic, buyers are still buying homes.**&nbsp;
 
