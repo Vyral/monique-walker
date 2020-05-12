@@ -22,7 +22,7 @@ youtube_code: 0S2Zc0PtILM
 
 {% include youtube.html %}
 
-Reverse mortgages are for those who are at least 62 years old, have accrued a decent amount of equity (roughly 50%), and don’t want to have a mortgage payment for the rest of their lives.&nbsp;
+Reverse mortgages are for homeowners who are at least 62 years old, have accrued a decent amount of equity (roughly 50%), and don’t want to have a mortgage payment for the rest of their lives.&nbsp;
 
 A reverse mortgage is a fairly complex product that warrants an in-depth conversation with your financial advisor. **It’s geared for fixed-income individuals who want to stay in their homes while alleviating the burden of monthly mortgage payments.** It’s also advocated by financial planners whenever there’s a downturn in the stock markets and their clients don’t want to liquidate their assets; a reverse mortgage allows them to free up a cash pool and avoid pulling money out of stocks or bonds.&nbsp;
 
