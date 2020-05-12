@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Reverse Mortgages Work
-date: 2020-05-11 19:34:42
+date: 2020-05-11 19:34:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -30,4 +30,4 @@ A reverse mortgage is a fairly complex product that warrants an in-depth convers
 
 Essentially, a reverse mortgage gets paid off just like any conventional mortgage would, though it's structured differently. If, for example, a son or daughter finds themselves needing to sell the property of a deceased parent who had a reverse mortgage, they will have 12 months from the parent’s passing to sell the property. Since a reverse mortgage loan is not to exceed the home’s value, the proceeds from the sale of the property will pay off the loan.&nbsp;
 
-**Bay Equity Home Loans has several reverse mortgages specialists ready to answer your questions** and explore whether taking out a reverse mortgage is right for you. Call Tom Ross at 602-791-5861 or email him at [tross@bayeq.com](mailto:tross@bayeq.com). In the meantime, please don’t hesitate to reach out if you have any other real estate-related questions. We’re always here to help\!
+**Bay Equity Home Loans has several reverse mortgages specialists ready to answer your questions** and explore whether taking out a reverse mortgage is right for you. Call Tom Ross at 602-791-5861 or email him at [tross@bayeq.com](mailto:tross@bayeq.com). If you have any real estate-related questions, please don't hesitate to reach out to us. We’re always here to help\!
