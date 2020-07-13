@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer Camps With Arizona Athletics
-date: 2020-07-13 15:58:12
+date: 2020-07-13 15:58:00
 tags:
   - Real Estate
 excerpt: Arizona Athletics is holding basketball and volleyball camps all summer.
@@ -33,4 +33,4 @@ You can find Arizona Athletics and their summer camps at Archway Cicero, off the
 
 If you have any questions about Arizona Athletics and their camps, you can reach out to them on their **[website](https://www.athleticsaz.com/)**.
 
-If you have any other questions for me or any real estate needs that I can assist with, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+If you have any other questions for me or any real estate needs that I can assist with, don’t hesitate to reach out via phone or email. I look forward to hearing from you.![](/uploads/july-basketball-camps-1.png){: width="1046" height="800"}![](/uploads/volleyball-camp-flyer-july-1-page-1.jpg){: width="3300" height="2550"}
