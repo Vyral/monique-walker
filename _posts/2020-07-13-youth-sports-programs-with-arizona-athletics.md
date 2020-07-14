@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Arizona Athletics is holding basketball and volleyball camps all summer.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Summer+Camps+With+Arizona+Athletics.mp4
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Youth+Sports+Programs+With+Arizona+Athletics.mp4
 pullquote: They also offer small group and private lessons for more advanced campers.
 enclosure_type: video/mp4
 enclosure_time:
