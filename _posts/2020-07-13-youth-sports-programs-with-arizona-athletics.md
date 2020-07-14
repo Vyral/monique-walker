@@ -11,7 +11,7 @@ pullquote: They also offer small group and private lessons for more advanced cam
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/monique-walker---yt.jpg
+youtube_alternate_image: /uploads/monique-walker---youtube-edit-2.jpg
 youtube_code: SVlDzGsis2o
 ---
 
