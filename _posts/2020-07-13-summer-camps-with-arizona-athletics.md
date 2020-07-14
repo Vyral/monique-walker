@@ -17,7 +17,7 @@ youtube_code: SVlDzGsis2o
 
 {% include youtube.html %}
 
-Everybody is looking for a way to get out and active this summer, and Elijah and Taylor joined me recently to talk about Arizona Athletics and their 2020 summer camps for kids.
+Everybody is looking for a way to get out and be active this summer, and my friends Elijah and Taylor joined me recently to talk about Arizona Athletics and their 2020 summer camps for kids.
 
 Elijah is the President of Arizona Athletics. **This summer, they’re holding basketball camps every Monday, Tuesday, and Wednesday from 10:30 a.m. to 1:30 p.m.** The camps are limited to 24 kids in a nice, big gym. They don’t social distance through the entire camp due to the nature of the game, but they do have temperature checks at the door, frequent hand washing, and limit distance as much as possible. If you’re not comfortable with that, they are also offering at-home and private training.
 
