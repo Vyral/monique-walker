@@ -29,7 +29,7 @@ The basketball camps are for those in grades four through eight. **It’s an int
 
 **The volleyball camps are for those in grades three through eight, and they welcome players of all levels.** For those who are a little more advanced, they also have small group and private training.
 
-You can find Arizona Athletics and their Summer camps at Archway Cicero, off the 1010 and Talking Stick exit.
+You can find Arizona Athletics and their Youth Sports Programs at Archway Cicero, off the 1010 and Talking Stick exit.
 
 **If you have any questions about Arizona Athletics and their sports programs, you can reach out to them on their** **[website](https://www.athleticsaz.com/){: target="_blank"}**.
 
