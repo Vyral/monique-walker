@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Who Is the Monique Walker Team?'
-date: 2020-07-29 20:28:16
+date: 2020-07-29 20:28:00
 tags:
   - Real Estate
   - Home Buyer Tips
