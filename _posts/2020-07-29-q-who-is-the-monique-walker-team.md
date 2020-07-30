@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Who Is the Monique Walker Team?'
+title: 'Q: Who Is The Monique Walker Team?'
 date: 2020-07-29 20:28:00
 tags:
   - Real Estate
