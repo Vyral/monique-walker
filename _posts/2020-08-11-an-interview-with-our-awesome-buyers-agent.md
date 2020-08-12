@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interview With Our Awesome Buyer’s Agent
-date: 2020-08-11 17:52:12
+date: 2020-08-11 17:52:00
 tags:
   - Real Estate
 excerpt: Here’s what Melanie Beauregard has to say about being on our team.
@@ -19,7 +19,7 @@ youtube_code: 1KPPNu3a6uY
 
 {% include youtube.html %}
 
-Today I’m joined by Melanie Beauregard, one of the Monique Walker Team’s awesome buyer agents, for an interview about her growth since she joined our team.&nbsp;
+Today I’m joined by Melanie Beauregard, one of the Monique Walker Team’s awesome buyer agents, for an interview about her growth since joining our team.&nbsp;
 
 Melanie’s been in the real estate business for four years. In her first year, she closed fewer than 25 homes, but in her third year (after she joined us), she helped 48 families buy a home. Of course, our job isn’t just about closing deals; it’s about helping people. That’s why **her goal for 2020 is to help 70 families buy a home.&nbsp;**
 
@@ -27,7 +27,7 @@ As of the recording of this video, she has 32 closings to her name, along with 1
 
 How did she double her production?
 
-“Well, I have a mindset that I decided I was going to surround myself with other successful people like yourself,” she says, “and I was very blessed to be invited to join your team. So, I feel like being around other people that are in the business and constantly reminding myself that I don’t know everything and that there’s always room to grow. And then just taking each experience that I’ve had and learn from it wholeheartedly. And then just constantly wanting to have the best for my clients.”&nbsp;
+“Well, I have a mindset that I decided I was going to surround myself with other successful people like yourself,” she says, “And I was very blessed to be invited to join your team. So, I feel like being around other people that are in the business and constantly reminding myself that I don’t know everything and that there’s always room to grow. And then just taking each experience that I’ve had and learn from it wholeheartedly. And then just constantly wanting to have the best for my clients.”&nbsp;
 
 {% include pullquote.html %}
 
@@ -45,7 +45,7 @@ In the two-and-a-half years Melanie has been with us, she’s been able to ident
 * Financial freedom&nbsp;
 * I’m so busy I don’t have time to do my nails 😄
 
-For any agent who’s looking to join a team and needs a little more support, I think it’s a powerful message for them to know that they can do more—they just need the right environment. If anything Melanie mentioned today struck a chord with you and you want to achieve the same growth in your career, you canbecause **we’re looking for another agent to join our team.&nbsp;**
+For any agent who’s looking to join a team and needs a little more support, I think it’s a powerful message for them to know that they can do more—they just need the right environment. If anything Melanie mentioned today struck a chord with you and you want to achieve the same growth in your career, you can because **we’re looking for another agent to join our team.&nbsp;**
 
 As Melanie said, she can’t handle all of the leads herself. We need someone who matches our drive, hustle, and enthusiasm, so if you’re interested in filling this position, don’t hesitate to call me today. I’d love to speak with you.&nbsp;
 
