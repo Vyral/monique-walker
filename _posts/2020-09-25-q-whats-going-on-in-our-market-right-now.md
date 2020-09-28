@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Going on in Our Market Right Now?'
-date: 2020-09-25 21:30:04
+date: 2020-09-25 21:30:00
 tags:
   - Market Update
 excerpt: Here are the latest news and notes on our market as we welcome fall.
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ss.jpg
+youtube_alternate_image: /uploads/market-update-yt.jpg
 youtube_code: m5tGIpVT6a4
 ---
 
