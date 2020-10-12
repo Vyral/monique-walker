@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Your Top Real Estate Questions
-date: 2020-10-09 19:37:02
+date: 2020-10-09 19:37:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/qa-part-1-yt.jpg
-youtube_code: YUORkfwXneE
+youtube_code: 4OnaGDkg_zw
 ---
 
 {% include youtube.html %}
