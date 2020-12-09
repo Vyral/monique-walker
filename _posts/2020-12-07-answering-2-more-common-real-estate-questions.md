@@ -11,7 +11,7 @@ pullquote: 'Pricing will continue to go up, but rates won’t stay this low fore
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/qa-part-3-yt.jpg
+youtube_alternate_image: /uploads/qa-part-3-yt-1.jpg
 youtube_code: tz3DkWwgV_M
 ---
 
