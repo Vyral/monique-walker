@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Consider a Holiday Home Sale?'
-date: 2020-12-22 21:23:07
+date: 2020-12-22 21:23:00
 tags:
   - Home Seller Tips
 excerpt: Here are three ways sellers who list during the holidays have an advantage.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sell-during-holidays-email.jpg
+youtube_alternate_image: /uploads/sell-during-holidays-yt.jpg
 youtube_code: aGuj3IMw_4Q
 ---
 
