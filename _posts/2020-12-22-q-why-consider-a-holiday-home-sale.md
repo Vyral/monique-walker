@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sell-during-holidays-yt.jpg
-youtube_code: aGuj3IMw_4Q
+youtube_code: m6bPDbtqR68
 ---
 
 {% include youtube.html %}
