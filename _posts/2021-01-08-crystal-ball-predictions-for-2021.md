@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crystal Ball Predictions for 2021
-date: 2021-01-08 22:49:18
+date: 2021-01-08 22:49:00
 tags:
   - Market Update
 excerpt: 'If I had a crystal ball to gaze into, here’s what I think I’d see for 2021.'
@@ -17,15 +17,15 @@ youtube_code: bk2pdDdPce8
 
 {% include youtube.html %}
 
-Today I’m sharing my real estate market predictions for 2021. If I had a crystal ball, I believe I’d see a wonderful market next year due to three factors:
+Today I’m sharing my real estate market predictions for 2021. If I had a crystal ball, I believe I’d see a wonderful market this year due to three factors:
 
-**1\. Low inventory.** We currently have less than one month’s supply of homes, and I foresee that continuing into the new year.
+**1\. Low inventory.** We currently have less than one month’s supply of homes, and I foresee that continuing throughout the new year.
 
 **2\. Demand from California.** We have high demand in our market, especially from California buyers, and I don’t see that wave letting up anytime soon.
 
 {% include pullquote.html %}
 
-**3\. Low interest rates.** Our great interest rates drive the market right now; people are getting between 2.5% and 3%, and the FED has said they won’t raise them for a while.
+**3\. Low interest rates.** Our great interest rates drive the market right now; people are getting between 2.5% and 3%, and the Fed has said they won’t raise them for a while.
 
 With all these elements, I think 2021 will be an excellent seller’s market, and we’re eager to get started.&nbsp;
 
