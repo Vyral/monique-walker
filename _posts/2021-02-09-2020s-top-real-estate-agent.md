@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/monique-walker-screenshot-template.jpg
 youtube_code:
 ---
 
-![](/uploads/instagram-post-1.jpg){: width="100%" height="100%"}
+![](/uploads/unnamed.jpg){: width="1200" height="630"}
 
 Through all of the insanity of 2020, real estate agents everywhere were battling to reach new heights to be deemed the Top Real Estate Agent in America.&nbsp;
 
