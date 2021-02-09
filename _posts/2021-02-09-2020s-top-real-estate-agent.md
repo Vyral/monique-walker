@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/instagram-post.jpg
+youtube_alternate_image: /uploads/monique-walker-screenshot-template.jpg
 youtube_code:
 ---
 
