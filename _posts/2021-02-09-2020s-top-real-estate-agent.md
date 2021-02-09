@@ -4,7 +4,7 @@ title: 2020’s Top Real Estate Agent
 date: 2021-02-09 16:34:00
 tags:
   - Real Estate
-excerpt: Monique Walker recently deemed the Top Real Estate Agent in America!
+excerpt: Monique Walker was recently deemed the Top Real Estate Agent in America!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
