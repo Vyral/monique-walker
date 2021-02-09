@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/monique-walker-screenshot-template.jpg
 youtube_code:
 ---
 
-![](/uploads/unnamed.jpg){: width="1200" height="630"}
+![](/uploads/unnamed.jpg){: width="100%" height="100%"}
 
 Through all of the insanity of 2020, real estate agents everywhere were battling to reach new heights to be deemed the Top Real Estate Agent in America.&nbsp;
 
@@ -22,4 +22,4 @@ Many fought for the title, but only one could be the best – and for 2020, that
 
 **[Click here to view the full article\!](https://www.fastexpert.com/blog/2020s-top-real-estate-agent-monique-walker/){: target="_blank" rel="noopener"}**
 
-**![](/uploads/monique-walker-screenshot-template-1.jpg){: width="1920" height="1080"}**
+**![](/uploads/monique-walker-screenshot-template-1.jpg){: width="100%" height="100%"}**
