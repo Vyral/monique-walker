@@ -14,6 +14,8 @@ youtube_alternate_image: /uploads/instagram-post.jpg
 youtube_code:
 ---
 
+![](/uploads/instagram-post-1.jpg){: width="1080" height="1080"}
+
 Through all of the insanity of 2020, real estate agents everywhere were battling to reach new heights to be deemed the Top Real Estate Agent in America.&nbsp;
 
 Many fought for the title, but only one could be the best – and for 2020, that agent is Monique Walker of Scottsdale, Arizona. She achieved this title by providing exceptional client experience, flexing her expertise in real estate, and buying and selling the most homes of any FastExpert agents in 2020.
