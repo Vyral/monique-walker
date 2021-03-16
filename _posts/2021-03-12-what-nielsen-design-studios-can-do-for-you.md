@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/neilson-design-studio-yt.jpg
-youtube_code: 6z407T6jKRs
+youtube_code: TC3vILCrm_o
 ---
 {% include youtube.html %}
 
