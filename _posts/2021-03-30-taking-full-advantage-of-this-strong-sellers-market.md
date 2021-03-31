@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/best-price-yt.jpg
-youtube_code: TcSEYN3pTII
+youtube_code: 0Ugm-S1LqNE
 ---
 {% include youtube.html %}
 
