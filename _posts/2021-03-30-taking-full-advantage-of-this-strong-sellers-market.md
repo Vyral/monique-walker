@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking Full Advantage of This Strong Seller’s Market
-date: 2021-03-30 17:20:27
+date: 2021-03-30 17:20:00
 tags:
   - Home Seller Tips
 excerpt: Here is how we’ve positioned ourselves to help you maximize your sale.
@@ -24,6 +24,6 @@ If your home is in decent condition and priced reasonably, it *will* sell. Howev
 
 {% include pullquote.html %}
 
-It’s our job to correspond with buyer’s agents in such a way that promotes bidding wars. We’ll also do everything in our power to get you the best terms. For example, can we remove the appraisal contingency? Can we ask the buyer to purchase your home in as-is condition? Do you want any extra terms? Perhaps you want to stay in the home for another 30 days.&nbsp;
+It’s our job to correspond with buyers' agents in such a way that promotes bidding wars. We’ll also do everything in our power to get you the best terms. For example, can we remove the appraisal contingency? Can we ask the buyer to purchase your home in as-is condition? Do you want any extra terms? Perhaps you want to stay in the home for another 30 days.&nbsp;
 
 We have the leverage to call those shots in this market. We’re here to do what’s best for you. **No two sellers have the same life priorities; whatever’s most important to you, we can make it happen.** So if you’re curious as to what your home is worth or you’re ready to sell, give us a call or send an email our way. We’d love to help you make the most of this opportunity.
