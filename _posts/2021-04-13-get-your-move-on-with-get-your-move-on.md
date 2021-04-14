@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Your Move On With Get Your Move On
-date: 2021-04-13 16:55:33
+date: 2021-04-13 16:55:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/get-your-move-on-yt.jpg
-youtube_code: iQ8t4HfTWRw
+youtube_code: kh4oe7dgbcc
 ---
 {% include youtube.html %}
 
@@ -33,7 +33,7 @@ With so many people buying and selling homes at the same time, there are a lot o
 
 This way, you don’t have to pay for PODS or other mini-storage options. If you think you’ll need to pursue these options, Derek invites you to give them a call so they can try solving any challenging logistical problems you may have. After that, they’ll give you a quote and let you decide what’s best for your situation.&nbsp;
 
-Just like Realtors, there are a lot of moving companies out there. What makes Get Your Move On Different? According to Derek, if your move carries certain challenges, about 90% all movers there will mishandle them. Half of those, he claims, are rogue movers with malintent. The other half are simply incompetent when it comes to running a small business, which is difficult. The remaining 10% are the ones who do high-level work, and Derek and his company pride themselves on providing high-level service.&nbsp;
+Just like Realtors, there are a lot of moving companies out there. What makes Get Your Move On Different? According to Derek, if your move carries certain challenges, about 90% of all movers there will mishandle them. Half of those, he claims, are rogue movers with malintent. The other half are simply incompetent when it comes to running a small business, which is difficult. The remaining 10% are the ones who do high-level work, and Derek and his company pride themselves on providing high-level service.&nbsp;
 
 “It really comes down to having a Nordstrom approach to a customer service problem. Everybody in our company has a core value of humility, and when we do have challenges, we’re not going to start figuring out whose fault it was. We’re just going to solve the problem, and then on the back end, take it as feedback on how to improve our company. I think that’s unique in a service business, as gritty and grimy as the moving business is.”&nbsp;
 
