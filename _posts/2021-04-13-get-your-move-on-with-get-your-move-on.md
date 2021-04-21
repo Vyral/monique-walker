@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Your Move On With Get Your Move On
+title: Get Your Move On With "Get Your Move On"
 date: 2021-04-13 16:55:00
 tags:
   - Home Seller Tips
