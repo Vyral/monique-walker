@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What’s on the Menu at the Fat Ox?
-date: 2021-05-03 20:19:50
+date: 2021-05-03 20:19:00
 tags:
   - Real Estate
 excerpt: Here’s what you can find at the Fat Ox restaurant here in Scottsdale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/What%E2%80%99s+on+the+Menu+at+the+Fat+Ox_.mp4
 pullquote: >-
   Even before he opened Zinc Bistro 20 years ago, Matt wanted to open an Italian
   restaurant and explore Italian cuisine.
@@ -29,4 +30,4 @@ Development took many years, of course, but Matt claims that if he had opened Fa
 
 Speaking of, if you’re coming to Scottsdale soon and want to visit the Fat Ox, **Matt suggests getting a Passport Dining card.** That way you can sample all of his other restaurants and try different cuisines from around the world. This has become a popular option for foodies. You can get French onion soup at Zinc Bistro on a Friday night, hit up Fat Ox the next night and try their homemade pasta, and finish off the weekend with some fresh tacos at The Mission.&nbsp;
 
-Many thanks to Matt for letting me interview him in today’s video. If you’d like to know more about the Fat Ox, feel free to [visit their website](http://www.ilovefatox.com/). If you have any questions for me, real estate or otherwise, don’t hesitate to call or email me. I’d love to hear from you.
+Many thanks to Matt for letting me interview him in today’s video. If you’d like to know more about the Fat Ox, feel free to [visit their website](http://www.ilovefatox.com/){: target="_blank" rel="noopener"}. If you have any questions for me, real estate or otherwise, don’t hesitate to call or email me. I’d love to hear from you.
