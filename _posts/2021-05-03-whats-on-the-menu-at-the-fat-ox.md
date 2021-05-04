@@ -20,9 +20,7 @@ youtube_code: HYha9Ny2uzs
 
 Today I’m visiting the Fat Ox restaurant in central Scottsdale to chat with head chef and owner Matt Carter. Located just a few minutes from Old Town Scottsdale and within walking distance of the new Ritz-Carlton being built, the Fat Ox is in one of the most amazing corners you can be in.&nbsp;
 
-Matt is also the head chef at Zinc Bistro and The Mission. Even before he opened Zinc Bistro 20 years ago, Matt wanted to open an Italian restaurant and explore Italian cuisine and the similar products we have here in Arizona such as figs, olives, and citrus. Additionally, a lot of the wheat that’s grown in Italy is also grown in the Southwest. According to Matt, really dry wheat makes for great pasta.
-
-“Just so I could make pasta, we built this restaurant,” he jokes.&nbsp;
+Matt is also the head chef at Zinc Bistro and The Mission. Even before he opened Zinc Bistro 20 years ago, Matt wanted to open an Italian restaurant and explore Italian cuisine and the similar products we have here in Arizona such as figs, olives, and citrus. Additionally, a lot of the wheat that’s grown in Italy is also grown in the Southwest. According to Matt, really dry wheat makes for great pasta. “Just so I could make pasta, we built this restaurant,” he jokes.&nbsp;
 
 {% include pullquote.html %}
 
