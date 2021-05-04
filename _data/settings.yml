@@ -97,7 +97,7 @@ images:
 
 site_colors:
   brand_color: '#003968'
-  theme_color: '#117ec2'
+  theme_color: '#003968'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
