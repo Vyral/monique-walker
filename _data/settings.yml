@@ -96,7 +96,7 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#e21e26'
+  brand_color: '#003968'
   theme_color: '#117ec2'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
@@ -106,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
