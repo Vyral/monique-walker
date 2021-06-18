@@ -27,7 +27,7 @@ Whether you’re young or old, real estate can be a tricky thing to wrap your he
 1. The seller calls the Realtor.
 2. The Realtor does a walk-through of the house. A walk-through means going through the home and checking out its features, upgrades, and condition.
 3. The Realtor determines the price. They usually do this by seeing what similar homes sold for recently.
-4. The Realtor lists the home on the MLS, or multiple listing service. This online platform is where Realtors post a home so that other Realtors and homebuyers can see it.
+4. The Realtor lists the home on the multiple listing service (MLS). This online platform is where Realtors post a home so that other Realtors and homebuyers can see it.
 5. The Realtor shows the property to people who want to buy the house.
 6. The Realtor negotiates with the buyer and their Realtor to find out what they’re willing to pay for the house.
 7. The home is sold\! However, it still takes about 30 days before the sale is completed.
