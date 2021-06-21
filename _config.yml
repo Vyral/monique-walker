@@ -1,9 +1,9 @@
 title: "Andross"
 # the subpath of your site, e.g. /blog
-baseurl: "https://moniquesells-re.com"
+baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-url: ""
+url: "https://moniquesells-re.com"
 
 # Build settings
 markdown: kramdown
