@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Estate 101: How Realtors Help You Sell Your Home'
+title: 'Real Estate 101 for Kids: How Realtors Help You Sell Your Home'
 date: 2021-06-17 16:10:47
 tags:
   - Home Seller Tips
