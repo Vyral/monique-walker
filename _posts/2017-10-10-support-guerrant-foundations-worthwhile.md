@@ -17,7 +17,6 @@ modified_time: '2017-10-11T08:49:43.815-07:00'
 thumbnail: https://i.ytimg.com/vi/IqMl1eYluk0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-3524054519059401130
 blogger_orig_url: https://moniquewalker1.blogspot.com/2017/10/support-guerrant-foundations-worthwhile.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 The 8th Annual Battle of the Sexes Tennis Festival is coming soon. This year, 100% of proceeds are being matched by The Guerrant Foundation.

@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/finding-home-value-youtube.jpg
 youtube_code: g1PA5aGkugE
-image: /img/podcast.jpg
+thumbnail: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

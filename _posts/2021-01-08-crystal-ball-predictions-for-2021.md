@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2021-predictions-yt.jpg
 youtube_code: bk2pdDdPce8
-image: /img/podcast.jpg
+thumbnail: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

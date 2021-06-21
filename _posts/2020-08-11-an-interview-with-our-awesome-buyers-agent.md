@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/call-with-melani-yt.jpg
 youtube_code: 1KPPNu3a6uY
-image: /img/podcast.jpg
+thumbnail: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

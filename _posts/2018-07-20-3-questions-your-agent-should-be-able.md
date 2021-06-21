@@ -17,7 +17,6 @@ modified_time: '2018-07-20T12:13:35.827-07:00'
 thumbnail: https://i.ytimg.com/vi/6BULJ55Ln-4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-7971606340127859182
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/07/3-questions-your-agent-should-be-able.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 How can you determine whether your listing agent is the right choice to help you sell your home? Start with these three questions.

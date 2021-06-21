@@ -12,7 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/monique-walker-screenshot-template.jpg
 youtube_code:
-image: /img/podcast.jpg
+thumbnail: /img/podcast.jpg
 ---
 
 ![](/uploads/unnamed.jpg){: width="100%" height="100%"}

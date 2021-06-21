@@ -17,7 +17,6 @@ modified_time: '2019-01-02T14:34:44.156-08:00'
 thumbnail: https://i.ytimg.com/vi/JeinR4-X9VM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-3487322839456069288
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/12/giving-back-to-our-heroes.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 We’re excited to announce our new program that will allow us to give back to the heroes in our community. Learn how it works here.

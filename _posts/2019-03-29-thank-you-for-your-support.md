@@ -17,7 +17,6 @@ modified_time: '2019-04-02T14:33:30.583-07:00'
 thumbnail: https://i.ytimg.com/vi/sBiV09Aebak/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-6089970859496715670
 blogger_orig_url: https://moniquewalker1.blogspot.com/2019/03/thank-you-for-your-support.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 Today we’d like to thank you for trusting us with your real estate needs.

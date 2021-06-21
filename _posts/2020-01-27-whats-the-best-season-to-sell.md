@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/best-time-to-list-youtube.jpg
 youtube_code: 9Qn61s7n0yM
-image: /img/podcast.jpg
+thumbnail: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fall-market-update-youtube.jpg
 youtube_code: tH48n19XGQQ
-image: /img/podcast.jpg
+thumbnail: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

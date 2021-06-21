@@ -17,7 +17,6 @@ modified_time: '2019-04-23T07:28:41.076-07:00'
 thumbnail: https://i.ytimg.com/vi/DOCmOEThOGE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-4447837689047870623
 blogger_orig_url: https://moniquewalker1.blogspot.com/2019/04/spring-is-best-time-to-sell-your-home.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 If you’ve been thinking of selling your home, now’s your chance!

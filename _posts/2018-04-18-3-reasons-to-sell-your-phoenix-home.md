@@ -17,7 +17,6 @@ modified_time: '2018-04-19T08:20:32.042-07:00'
 thumbnail: https://i.ytimg.com/vi/aeg9SIA2JEY/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-9218196593346328617
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/04/3-reasons-to-sell-your-phoenix-home.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 This spring is a great time to sell your Phoenix home. Here are three reasons why.

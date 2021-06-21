@@ -17,7 +17,6 @@ modified_time: '2017-10-26T13:36:54.370-07:00'
 thumbnail: https://i.ytimg.com/vi/dJjyNGsIfEA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-1361859091009022977
 blogger_orig_url: https://moniquewalker1.blogspot.com/2017/10/are-cash-offers-always-best-option.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 Is a cash offer always best? Not always. I’ll go over when a cash offer is and isn’t necessarily your best option when selling your home.

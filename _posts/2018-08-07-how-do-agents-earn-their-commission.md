@@ -17,7 +17,6 @@ modified_time: '2018-08-08T14:48:30.507-07:00'
 thumbnail: https://i.ytimg.com/vi/SIQxpuJ05yU/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-2789555186382519637
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/08/how-do-agents-earn-their-commission.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 If you are wondering how an agent earns their commission, here is a rundown of everything we do for our clients.

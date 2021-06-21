@@ -17,7 +17,6 @@ modified_time: '2019-06-07T09:35:55.868-07:00'
 thumbnail: https://i.ytimg.com/vi/wLUxlCnKsqA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-6344872943673865421
 blogger_orig_url: https://moniquewalker1.blogspot.com/2019/06/if-you-plan-on-buying-home-time-to-act.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 If you’re a homebuyer, the time to buy is now—here’s why.

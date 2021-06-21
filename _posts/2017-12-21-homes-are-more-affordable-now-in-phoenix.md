@@ -17,7 +17,6 @@ modified_time: '2017-12-21T09:28:28.296-08:00'
 thumbnail: https://i.ytimg.com/vi/LTiO1k9bybU/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-4483967359562729074
 blogger_orig_url: https://moniquewalker1.blogspot.com/2017/12/homes-are-more-affordable-now-in-phoenix.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 Buying power has just gone up in Maricopa County. Tom Ross is here with the latest news.

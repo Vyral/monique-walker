@@ -17,7 +17,6 @@ modified_time: '2018-10-25T11:33:43.665-07:00'
 thumbnail: https://i.ytimg.com/vi/gglWMdohuhA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-2510887125218354337
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/10/how-to-respond-to-rising-interest-rates.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 What should you do about interest rates knowing that they’re on the rise? Tom Ross from Bay Equity is here to explain.

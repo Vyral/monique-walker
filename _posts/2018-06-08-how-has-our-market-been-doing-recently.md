@@ -17,7 +17,6 @@ modified_time: '2018-06-11T12:15:20.302-07:00'
 thumbnail: https://i.ytimg.com/vi/StTTxlBqy70/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-7197487768744873888
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/06/how-has-our-market-been-doing-recently.html
-image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 It is time to take a look at the latest market conditions. But alongside today’s update, allow me to also share a great, new listing.
