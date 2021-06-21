@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/real-estate-101-yt.jpg
 youtube_code: YHW8VONCTAs
+image: /uploads/real-estate-101-pod.jpg
 ---
 {% include youtube.html %}
 
