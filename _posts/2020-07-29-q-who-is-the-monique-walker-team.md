@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/monique-walker-team-youtube.jpg
 youtube_code: IoIQqctpvNQ
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

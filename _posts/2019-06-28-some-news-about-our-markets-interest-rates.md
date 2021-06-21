@@ -18,6 +18,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/interest-rates-youtube.jpg
 youtube_code: CDF_VYSF1rY
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

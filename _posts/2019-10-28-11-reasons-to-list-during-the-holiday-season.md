@@ -12,6 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/list-during-the-holidays-youtube-1.jpg
 youtube_code:
+image: /img/podcast.jpg
 ---
 
 ###### ![](/uploads/11-reasons-holiday-season-page-001-1.jpg){: .post-image}

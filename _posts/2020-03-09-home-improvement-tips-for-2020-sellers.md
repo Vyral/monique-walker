@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-improvements-youtube.jpg
 youtube_code: nYHW2_-N2B8
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

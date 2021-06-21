@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sells-brand-video-youtube.jpg
 youtube_code: 8mFxpdBoTBk
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

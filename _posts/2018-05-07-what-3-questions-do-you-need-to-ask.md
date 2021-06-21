@@ -18,6 +18,7 @@ modified_time: '2018-05-07T12:36:09.819-07:00'
 thumbnail: https://i.ytimg.com/vi/ZDUDp1Da_kg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-4805367058896762447
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/05/what-3-questions-do-you-need-to-ask.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 Before hiring a real estate agent, you need to do some vetting. Here are the questions that we recommend you ask.

@@ -17,6 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/march-update-youtube.jpg
 youtube_code: OkrOoGD7XTs
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

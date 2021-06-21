@@ -17,6 +17,7 @@ modified_time: '2018-09-18T11:20:33.759-07:00'
 thumbnail: https://i.ytimg.com/vi/i87EaoLPqG0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-1878611211517450393
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/09/how-to-stay-safe-when-listing-vacant.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 If you’re listing a vacant home, there are certain safety tips you will need to follow.

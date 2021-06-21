@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/qa-part-2-yt.jpg
 youtube_code: xj5SHztM5gI
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

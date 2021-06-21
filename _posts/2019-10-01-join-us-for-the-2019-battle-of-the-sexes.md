@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/battle-of-the-sexes-youtube.jpg
 youtube_code: qZHBCNsZkTY
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

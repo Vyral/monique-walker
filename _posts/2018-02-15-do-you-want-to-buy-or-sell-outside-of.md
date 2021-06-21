@@ -18,6 +18,7 @@ modified_time: '2018-02-19T08:08:09.224-08:00'
 thumbnail: https://i.ytimg.com/vi/xhZP57nBu5c/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-1641853839336742534
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/02/do-you-want-to-buy-or-sell-outside-of.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 

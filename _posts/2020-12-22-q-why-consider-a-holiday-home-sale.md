@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sell-during-holidays-yt.jpg
 youtube_code: m6bPDbtqR68
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

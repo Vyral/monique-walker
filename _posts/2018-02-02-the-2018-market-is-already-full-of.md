@@ -17,6 +17,7 @@ modified_time: '2018-02-02T12:47:20.746-08:00'
 thumbnail: https://i.ytimg.com/vi/FraCKzDPncg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-4726934704081525075
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/02/the-2018-market-is-already-full-of.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 What do you need to know about our 2018 market so far? Let’s find out in our first update of the year.

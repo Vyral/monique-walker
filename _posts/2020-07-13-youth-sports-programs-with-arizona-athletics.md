@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/monique-walker---youtube-edit-2.jpg
 youtube_code: SVlDzGsis2o
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

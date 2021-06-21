@@ -17,6 +17,7 @@ modified_time: '2018-08-29T11:15:34.226-07:00'
 thumbnail: https://i.ytimg.com/vi/X1RwouTZEb4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-6639026078850007226
 blogger_orig_url: https://moniquewalker1.blogspot.com/2018/08/5-top-home-selling-tips.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 We’ve got plenty of tips for potential home sellers out there. Here are five of them.

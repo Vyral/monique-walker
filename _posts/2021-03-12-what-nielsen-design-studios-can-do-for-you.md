@@ -16,6 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/neilson-design-studio-yt.jpg
 youtube_code: TC3vILCrm_o
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 

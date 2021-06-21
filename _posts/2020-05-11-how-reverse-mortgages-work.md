@@ -18,6 +18,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/reverse-mortgages-youtube.jpg
 youtube_code: 0S2Zc0PtILM
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

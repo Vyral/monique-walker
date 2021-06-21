@@ -17,6 +17,7 @@ modified_time: '2017-11-22T11:45:57.851-08:00'
 thumbnail: https://i.ytimg.com/vi/OH8KqerS_24/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-8317732111118948587
 blogger_orig_url: https://moniquewalker1.blogspot.com/2017/11/having-mortgage-trouble-dont-worry-help.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 One Home at a Time Housing Solutions can help anyone facing difficulties making their mortgage payments.

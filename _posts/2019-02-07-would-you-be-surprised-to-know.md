@@ -17,6 +17,7 @@ modified_time: '2019-02-08T12:41:49.932-08:00'
 thumbnail: https://i.ytimg.com/vi/RybgpMR6qLM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-3201753915553277412.post-2581789623782042535
 blogger_orig_url: https://moniquewalker1.blogspot.com/2019/02/would-you-be-surprised-to-know.html
+image: /img/podcast.jpg
 ---
 {% include youtube.html %}
 How will these changes in our market affect you? You may be, well, surprised!

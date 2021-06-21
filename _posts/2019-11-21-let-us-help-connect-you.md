@@ -15,6 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/remax-conference-youtube.jpg
 youtube_code: Dws8-jmPc_U
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}

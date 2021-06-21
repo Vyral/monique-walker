@@ -17,6 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/google-questions-youtube.jpg
 youtube_code: R1wohtbtVIA
+image: /img/podcast.jpg
 ---
 
 {% include youtube.html %}
