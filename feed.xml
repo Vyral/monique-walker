@@ -11,7 +11,8 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
+    <media:thumbnail url="{{ post.thumbnail | prepend: 'https://moniquesells-re.com' }}" height="72" width="72"/>
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
@@ -24,7 +25,6 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <media:thumbnail url="{{ post.thumbnail | prepend: 'https://moniquesells-re.com' }}" height="72" width="72"/>
       </item>
     {% endfor %}
   </channel>
