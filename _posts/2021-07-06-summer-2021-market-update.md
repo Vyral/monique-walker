@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-yt-1.jpg
 youtube_code: zOt3MJKMkjw
-image:
+image: /img/podcasts/001.jpg
 ---
 {% include youtube.html %}
 

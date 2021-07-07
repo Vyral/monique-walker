@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/get-your-move-on-yt.jpg
 youtube_code: kh4oe7dgbcc
-thumbnail: /img/podcast.jpg
+thumbnail: /img/podcasts/004.jpg
 ---
 {% include youtube.html %}
 

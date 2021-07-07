@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fat-ox-yt.jpg
 youtube_code: HYha9Ny2uzs
-thumbnail: /img/podcast.jpg
+thumbnail: /img/podcasts/003.jpg
 ---
 {% include youtube.html %}
 
