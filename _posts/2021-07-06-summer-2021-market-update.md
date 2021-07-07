@@ -21,6 +21,6 @@ Where are buyers coming from? Buyers in our market are primarily coming from Cal
 
 There are a lot more cash buyers in this market. However, only 30% of our buyers are actually providing cash to purchase, so don’t be intimidated if you're getting a conventional loan.
 
-Last year, our average price in Maricopa County was $350,000. Today it's $504,000. **That's a 43% increase.** The market's still trending upwards for the next six months. We may see a cooldown after that.
+Last year, our average price in Maricopa County was $350,000. Today it's $504,000. **That's a 43% increase.** The market will likely trend upward for the next six months. We may see a cooldown after that.
 
-If you want to know what your home is worth, I always welcome your call.
+If you want to know what your home is worth or just have any real estate-related questions, I always welcome your call.
