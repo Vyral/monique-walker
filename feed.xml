@@ -11,7 +11,7 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    <media:thumbnail url="{{ post.thumbnail | prepend: 'https://moniquesells-re.com' }}" height="72" width="72"/>
+    <media:{{ post.thumbnail | prepend: 'https://moniquesells-re.com' }}>
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
