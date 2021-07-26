@@ -24,7 +24,7 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <description><![CDATA[<img src="{{ post.thumbnail | prepend: 'https://moniquesells-re.com' }}">]]></description>
+        <description>{{ post.thumbnail | prepend: 'https://moniquesells-re.com'}}</description>
       </item>
     {% endfor %}
   </channel>
