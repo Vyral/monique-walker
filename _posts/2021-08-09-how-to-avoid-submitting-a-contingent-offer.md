@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /avoid-contingencies-yt.jpg
-youtube_code: PulVSm7zOcc
+youtube_code: '-uKP_k9793E'
 image: /avoid-contingencies-apple-podcast.jpg
 ---
 {% include youtube.html %}
