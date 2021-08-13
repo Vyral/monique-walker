@@ -10,9 +10,9 @@ pullquote: We can help you find success in today’s super competitive market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /avoid-contingencies-yt.jpg
+youtube_alternate_image: /download.jpg
 youtube_code: '-uKP_k9793E'
-image: /avoid-contingencies-apple-podcast.jpg
+image: /download-1.jpg
 ---
 {% include youtube.html %}
 
