@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /market-update-yt.jpg
-youtube_code: 7eMQmrmi2NA
+youtube_code: e-nde8VdTNA
 image: /market-update-apple-podcast.jpg
 ---
 {% include youtube.html %}
