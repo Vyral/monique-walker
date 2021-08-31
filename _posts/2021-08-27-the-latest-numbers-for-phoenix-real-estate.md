@@ -23,6 +23,6 @@ Today I have a brief market update with all the latest numbers for Phoenix real 
 
 {% include pullquote.html %}
 
-Here are a few examples. **We listed a home for $525,000 in Old Town Scottsdale last week and were able to sell it for $580,000 after receiving multiple offers.** Another property in North Phoenix received just three offers at $340,000,&nbsp; but we sold it for $350,000.
+Here are a few examples. **We listed a home for $525,000 in Old Town Scottsdale last week and were able to sell it for $580,000 after receiving multiple offers.** Another property in North Phoenix received just three offers at $340,000,&nbsp; but we sold it for $350,000.&nbsp;
 
 Every micro market is a little different. If you have any questions about what’s going on in our area, give us a call or send us an email. The market is starting to cool, so the time to sell is now. I look forward to hearing from you soon.
