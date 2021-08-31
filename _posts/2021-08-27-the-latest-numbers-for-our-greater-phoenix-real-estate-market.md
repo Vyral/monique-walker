@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: Here’s what Phoenix homebuyers and sellers should know about this market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/The+Latest+Numbers+for+Phoenix+Real+Estate.mp4
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/The+Latest+Numbers+for+Our+Greater+Phoenix+Real+Estate+Market.mp4
 pullquote: Every micro market is a little different.
 enclosure_type: video/mp4
 enclosure_time:
