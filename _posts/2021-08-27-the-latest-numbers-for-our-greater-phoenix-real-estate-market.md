@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Latest Numbers for Phoenix Real Estate
+title: The Latest Numbers for Our Greater Phoenix Real Estate Market
 date: 2021-08-27 19:52:21
 tags:
   - Market Update
