@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here are three gimmicks in real estate today that you should be wary of.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/3+Common+Real+Estate+Gimmicks.mp4
 pullquote: >-
   So many companies are marketing well but making promises they just can’t
   follow through with.
@@ -21,7 +22,7 @@ image: /gimmicks-apple-podcast.jpg
 
 Has there ever been a time when you knew something was too good to be true? Of course, you did it anyway, and just like you figured, it didn’t work out at all. That’s a bit how it is in real estate right now. So many companies are marketing well but making promises they just can’t follow through with. Let’s go over some of these gimmicks so you don’t fall for any of them:
 
-**1\. “We’ll only market the property for two hours.”** If you take three or four days, you’ll get at least double the exposure on your property. Do you really want to sacrifice how much you could sell over list price for a little bit of convenience?&nbsp;
+**1\. “We’ll only market the property for two hours.”** If you take three or four days, you’ll get at least double the exposure on your property. Do you really want to sacrifice how much you could sell over list price for a little bit of convenience?
 
 {% include pullquote.html %}
 
