@@ -23,6 +23,6 @@ First off, **stagers are professional interior designers.** When a stager works 
 
 {% include pullquote.html %}
 
-Another option is to use your own furniture. Whether you want to save the inconvenience or time, stagers can accommodate your needs. They’ll use their professional eye and tell you what items you should remove and what you should add.&nbsp;
+Another option is to use your own furniture. Whether you want to save the inconvenience or time, stagers can accommodate your needs. They’ll use their professional eye to tell you what you should remove and what you should add.&nbsp;
 
 **There are countless ways to go when staging your home**, and what’s best for you comes down to your wants and needs. If you want the contact info of a great stager, please reach out to us via phone or email. We have great contacts and are always willing to help\!
