@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Consider a Holiday Home Sale?'
-date: 2020-12-22 21:23:00
+date: 2021-10-27 21:23:00
 tags:
   - Home Seller Tips
 excerpt: Here are three ways sellers who list during the holidays have an advantage.
@@ -17,7 +17,6 @@ youtube_alternate_image: /uploads/sell-during-holidays-yt.jpg
 youtube_code: m6bPDbtqR68
 thumbnail: /img/podcast.jpg
 ---
-
 {% include youtube.html %}
 
 Many potential home sellers make their plans for the springtime, while others hope for a quick summer sale so they can move while the kids are out of school. It's often assumed that the fall and winter markets are quieter, if not dead altogether. However, there are numerous advantages to listing your home during the holidays, and today I’m highlighting three major ones:&nbsp;
