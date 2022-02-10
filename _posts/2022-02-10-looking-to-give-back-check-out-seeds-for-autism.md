@@ -29,10 +29,10 @@ We work directly with folks on the autism spectrum to teach them vocational, lif
 
 They can\! If you [visit our website](https://www.seedsforautism.org/), you can find a shop where all the products we make are available.&nbsp;
 
+{% include pullquote.html %}
+
 **As the founder of SEEDs for Autism, how did you create this organization?**
 
 This nonprofit is a collaboration between local artisans, professionals, business owners, and adjunct instructors. We try to teach our students as much as we can so that they understand the customer service, marketing, and social sides of what we do here. We want to provide as many transferable skills as possible and give them a purpose.&nbsp;
 
 I would like to thank Mary Ann for taking the time to talk with me today. SEEDs for Autism is a wonderful organization, and the products they make reflect that. Once again, if you’d like to support them, visit their website at [www.seedsforautism.org](http://www.seedsforautism.org). Also, if you have any questions for me, don’t hesitate to call or email me. I’d love to hear from you\!
-
-{% include pullquote.html %}
