@@ -13,7 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-yt-2.jpg
 youtube_code: R52rS7-9rCU
-image:
+image: /uploads/market-update-yt.jpeg
 ---
 {% include youtube.html %}
 
