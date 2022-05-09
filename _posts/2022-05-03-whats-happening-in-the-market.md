@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in the Market?
+title: Is The Market Cooling Off?
 date: 2022-05-03 00:00:00
 tags:
 excerpt: Our real estate market is hotter right now than I’ve ever seen it.
