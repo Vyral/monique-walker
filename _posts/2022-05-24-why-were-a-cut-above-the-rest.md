@@ -9,10 +9,10 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
-image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/hire-me-yt.jpeg
+youtube_code: B1o7Sgz3ZYI
+image: /uploads/hire-me-yt.jpeg
 ---
 {% include youtube.html %}
 
