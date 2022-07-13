@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'Thinking of Moving to Phoenix, AZ? '
+title: 'Thinking of Moving to Scottsdale/Phoenix, AZ? '
 date: 2022-07-08 05:00:00
 tags:
-excerpt: Here are the reasons why you should move to beautiful Phoenix, Arizona.
+excerpt: >-
+  Here are the reasons why you should move to beautiful Scottsdale/Phoenix,
+  Arizona.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
