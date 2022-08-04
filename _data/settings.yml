@@ -62,16 +62,16 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: http://www.moniquesells.com/properties/#/
 lender:
-  show_section: false
+  show_section: true
   header_text: Local Lender
-  headshot_path: /img/lender-headshot.jpg
+  headshot_path: /uploads/kennan.jpg
   logo_path: /img/lender-logo.png
-  name: Tom Ross
+  name: Jonathon Keenan
   license_number:
   company: Bay Equity Home Loans
   company_license_number:
-  phone: 602-791-5861
-  email: tross@bayeq.com
+  phone: 602.714.1803
+  email: jkeenan@bayeq.com
   url:
 socials:
   review_sm_icons: false
