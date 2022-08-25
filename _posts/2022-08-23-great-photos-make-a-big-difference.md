@@ -19,6 +19,6 @@ image: /uploads/photography-yt.jpeg
 
 Great photography is a game changer in real estate—it cannot be overrated. We specialize in selling properties that other agents haven't been able to sell. We will either help our sellers stage their homes or hire a stager and also have a dedicated professional photographer on our team.
 
-**Our goal is to show the property in its best light.** When the photos match the home, it creates an authentic experience during the walk through. We also make sure that the description of the home is compelling, accurate, and absolutely irresistible. If you're thinking about selling and want exceptional photography and presentation, call me, and I'll show you how our performance will outsell all those promises.
+**My goal is to show the property in its best light.** When the photos match the home, it creates an authentic experience during the walk through. We also make sure that the description of the home is compelling, accurate, and absolutely irresistible. If you're thinking about selling and want exceptional photography and presentation, call me, and I'll show you how our performance will outsell all those promises.
 
 If you have any questions, don’t hesitate to reach out to me by phone or email. I look forward to hearing from you.
