@@ -4,7 +4,8 @@ title: Great Photos Make a Big Difference
 date: 2022-08-23 05:00:00
 tags:
 excerpt: We will make sure that your home is seen in the best light possible.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/2022/Monique+Walker_Photography.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
