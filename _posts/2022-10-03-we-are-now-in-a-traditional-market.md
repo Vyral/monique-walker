@@ -3,7 +3,7 @@ layout: post
 title: We Are Now in a Traditional Market
 date: 2022-10-03 05:00:00
 tags:
-excerpt: Critical local market update every buyer and seller should know.
+excerpt: Local market update every buyer and seller should know.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ image: /uploads/market-update-yt-2.jpeg
 
 {% include excerpt.html %}
 
-What’s going on with the market? Today we'll talk about the changes that’re happening to real estate and share some critical market data.&nbsp;
+What’s going on with the market? Today we'll talk about the changes that’re happening to real estate and share some market data.&nbsp;
 
 We currently have 18,000 homes available, and we sold 5,800 homes last month. If we compare that with the numbers from the market peak in March, which had the most buyers and the lowest amount of inventory ever, the market has definitely changed. Our inventory has doubled, and we have about 30% less buyer demand.&nbsp;
 
