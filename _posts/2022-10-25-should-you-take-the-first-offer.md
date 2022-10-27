@@ -17,7 +17,7 @@ image:
 
 {% include excerpt.html %}
 
-A common question I get asked is: “Should you take the first offer that you receive?” My answer is 90%, yes, 10%, no. Allow me to elaborate.&nbsp;
+A common question I get asked is: “Should you take the first offer that you receive?” My answer is 90% yes, 10% no. Allow me to elaborate.&nbsp;
 
 **The first offer you receive will be from your most motivated, excited, and enthusiastic buyer.** Why is that? This is because they were the first to see the property and the first to send an offer. This first buyer really doesn’t want to lose.
 
