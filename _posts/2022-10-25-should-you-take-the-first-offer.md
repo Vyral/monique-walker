@@ -4,7 +4,8 @@ title: Should You Take the First Offer?
 date: 2022-10-25 05:00:00
 tags:
 excerpt: Is the first offer on your house worth accepting, or should you wait?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Monique+Walker/+VIdeos/Monique+Walker_Should+You+Take+the+First+Offer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
