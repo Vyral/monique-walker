@@ -3,6 +3,7 @@ layout: post
 title: Why You Shouldn’t Overprice Your Home
 date: 2022-12-15 05:00:00
 tags:
+  - Home Seller Tips
 excerpt: 'Here’s why sellers need to be careful about overpricing their homes. '
 enclosure:
 pullquote:
@@ -10,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/price-right-yt.jpg
-youtube_code:
+youtube_code: 0P1SFKT9MMg
 image:
 ---
 {% include youtube.html %}
