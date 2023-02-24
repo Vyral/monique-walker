@@ -9,7 +9,7 @@ pullquote: Homes are selling for almost the full asking price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/market-update-yt-4.jpg
 youtube_code: MKq4JR0k_us
 image:
 ---
