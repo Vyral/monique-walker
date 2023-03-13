@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '3 Ways To Get Your Home Ready To Sell '
+title: Preparing Your Home for the Market
 date: 2023-03-12 05:00:00
 tags:
 excerpt: 'Three things to focus on when preparing your home for the market. '
@@ -11,7 +11,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2-12.jpg
 youtube_code: _CnpqqUIfe8
 image:
 ---
