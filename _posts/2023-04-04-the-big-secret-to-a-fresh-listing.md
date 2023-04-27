@@ -11,7 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/screenshot-2023-04-04-at-11-37-44-pm.png
 youtube_code: sM7SCc-Qhd4
-image:
+image: /uploads/screenshot-2023-04-28-at-2-36-03-am.png
 ---
 {% include youtube.html %}
 
