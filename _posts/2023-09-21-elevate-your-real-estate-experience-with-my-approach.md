@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-2023-09-22t042637-854.jpg
-youtube_code: 75YHUxOSU3A
+youtube_code: ZjQXTkAPyEI
 image:
 ---
 {% include youtube.html %}
