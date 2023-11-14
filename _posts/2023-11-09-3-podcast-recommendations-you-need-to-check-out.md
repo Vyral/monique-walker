@@ -22,6 +22,6 @@ Today, I wanted to do something a little different and share my favorite podcast
 
 **2\. Wholesale Hotline/Bigger Pockets.** These podcasts are all about real estate investing and building long-term wealth.&nbsp;
 
-**3\. Coop Lacson and Ed Mylett.** Both of these experts specialize in developing your mindset. If you’re looking for extra motivation, look no further.
+**3\. Kute Blackson and Ed Mylett.** Both of these experts specialize in developing your mindset. If you’re looking for extra motivation, look no further.
 
 Hopefully, you found this list interesting. If you have questions about this topic or anything else, just call or email me. I’d love to hear from you!
