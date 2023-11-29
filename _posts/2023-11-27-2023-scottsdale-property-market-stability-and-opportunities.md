@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2023 Scottsdale Property Market: Stability and Opportunities'
+title: '2023 Greater Phoenix Property Market: Stability and Opportunities'
 date: 2023-11-27 05:00:00
 excerpt: Trends and opportunities in Scottsdale’s 2023 real estate market.
 enclosure:
@@ -10,7 +10,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-9.jpg
+youtube_alternate_image: /uploads/2-16.jpg
 youtube_code: 3BzQXmsUEo0
 image:
 ---
