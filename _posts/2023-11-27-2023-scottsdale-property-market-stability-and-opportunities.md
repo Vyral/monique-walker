@@ -5,7 +5,7 @@ date: 2023-11-27 05:00:00
 excerpt: Trends and opportunities in Scottsdale’s 2023 real estate market.
 enclosure:
 pullquote: >-
-  The Scottsdale real estate market presents unique opportunities and
+  The Greater Phoenix real estate market presents unique opportunities and
   challenges.
 enclosure_type: video/mp4
 enclosure_time:
