@@ -16,9 +16,9 @@ image:
 
 {% include excerpt.html %}
 
-Are you in the process of selling your home and wondering if it's all about the price? While securing a favorable selling price is undoubtedly crucial, savvy sellers know that there's more to a successful home sale than just the numbers. In fact, most sellers prioritize three key elements: convenience, certainty, and control. One often-overlooked aspect that significantly contributes to achieving these goals is the careful consideration of the terms in the sales contract.
+Are you in the process of selling your home and wondering if it's all about the price? While securing a favorable selling price is definitely important, savvy sellers know there's more to a successful home sale than just the numbers. In fact, most sellers prioritize three key elements: convenience, certainty, and control. One often-overlooked aspect that significantly contributes to achieving these goals is the careful consideration of the terms in the sales contract.
 
-When it comes to selling your property, the terms of the contract can be just as important as the price itself. It's not only about getting the best price but also about ensuring a smooth, hassle-free transaction that meets your specific needs.
+When it comes to selling your property, the contract terms can be just as important as the price itself. It's not only about getting the best price but also about ensuring a smooth, hassle-free transaction that meets your specific needs.
 
 If you're on the lookout for a real estate agent who understands the importance of balancing a competitive price with favorable terms, look no further. I am committed to providing you with a seamless selling experience that goes beyond mere promises. Here's why you should consider working with me:
 
