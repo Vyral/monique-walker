@@ -20,7 +20,7 @@ image:
 
 Customizing your home sale is crucial for a smooth process. An agent who can adapt to your needs makes all the difference, whether you want a quick sale, top price, or face unique challenges like limited availability for showings.
 
-While most owner occupants often bring the best offers, every situation is different. Building strong relationships with agents and companies enhances options.
+While most owner-occupants often bring the best offers, every situation is different. Building strong relationships with agents and companies enhances options.
 
 {% include pullquote.html %}
 
