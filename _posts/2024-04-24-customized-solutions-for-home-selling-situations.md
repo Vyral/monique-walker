@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customized Solutions for Home Selling Situations
+title: 4 Ways Agents Customize Home Sales for Your Goals
 date: 2024-04-24 00:00:00
 excerpt: Maximize the true value of your home – 4 ways agents customize home sales.
 enclosure:
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: lYUoIEimSv0
 image:
 ---
 {% include youtube.html %}
