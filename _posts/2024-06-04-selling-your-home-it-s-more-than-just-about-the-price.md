@@ -2,9 +2,9 @@
 layout: post
 title: 'Selling Your Home: It’s More Than Just About the Price'
 date: 2024-06-04 04:00:00
-excerpt:
+excerpt: Learn these 3 important factors to keep in mind when selling your home.
 enclosure:
-pullquote:
+pullquote: When selling your home, it's not just about the price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
