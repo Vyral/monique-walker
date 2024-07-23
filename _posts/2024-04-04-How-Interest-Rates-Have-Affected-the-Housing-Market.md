@@ -24,8 +24,8 @@ In our current market, buyers with a 740 FICO score and 20% down payment on a si
 
 So, how has this affected our current market? Let's dive into the numbers. Active listings have seen a 22% increase year over year, with 20,000 active listings compared to 17,000 last year. On the pending side, we're down 4%, indicating a slight slowdown in the number of homes under contract. In terms of homes sold, we currently have 7,000 homes sold compared to 7,500 last year, which is a 9.5% decrease.
 
-Our supply of inventory has also changed. We now have a two and a half month supply of homes, up from a 1.8-month supply last year, representing a 39% increase in inventory.
+Our supply of inventory has also changed. We now have a two-and-a-half-month supply of homes, up from a 1.8-month supply last year, representing a 39% increase in inventory.
 
-**What do these numbers mean for the real estate market today?** Inventory is starting to build up, so there are more homes available on the market. Despite this increase, we're still in a good seller's market with a two and a half month supply. However, it's important to remember that every area is unique.
+**What do these numbers mean for the real estate market today?** Inventory is starting to build up, so there are more homes available on the market. Despite this increase, we're still in a good seller's market with a two-and-a-half-month supply. However, it's important to remember that every area is unique.
 
 If you're looking to sell your home or have questions about the market, I would love to help. Call me, message me – I hope to hear from you soon!
